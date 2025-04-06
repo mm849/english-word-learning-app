@@ -6,6 +6,8 @@ This app allows users to learn English vocabulary visually using AI-powered **me
 日本のビジネスパーソンを対象に、短時間で直感的に単語を記憶・定着できるよう設計しました。
 Designed for Japanese business professionals, the app helps users memorize words efficiently in a short time.
 
+![Image](https://github.com/user-attachments/assets/f35c8d97-e2a3-4de9-987b-95f80d4000f8)
+
 ---
 
 ## 🔍 概要 / Overview
