@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "english-word-app"
+version = "0.1.0"
+description = ""
+authors = ["mm849 <1192kamakura.mizuki@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+openai = "^1.70.0"
+streamlit = "^1.44.1"
+pillow = "^11.1.0"
+dotenv = "^0.9.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
